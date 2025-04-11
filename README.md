@@ -1,7 +1,7 @@
 # GIS-EarthObservation-Portfolio
 # Anna-Lara Defalque-Herrberg's GIS Portfolio
 
-🌍 Earth Observation | 🛰️ Remote Sensing | 📊 GIS Analysis | 🔥 Wildfire Recovery
+🌍 Earth Observation | 🛰️ Remote Sensing | 📊 GIS Analysis 
 
 Welcome! This is where I showcase my geospatial projects, data visualizations, and environmental observations through GIS. Projects focus on climate resilience, disaster recovery, and satellite-based spatial analysis.
 
