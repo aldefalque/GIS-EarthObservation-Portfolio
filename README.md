@@ -12,8 +12,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   → [View PDF Map](Wildire Analysis map ALDefalqueHerrberg.pdf)  
   → 🌐 [Map Package] In the works
 - **Coming soon:**
-  Urban heat mapping with Landsat
-  Remote sensing for agriculture
-  **Deforestation in the Congo Basin**
-  **Impact mapping of coral Bleaching on the Great Barrier Reef and geoengineering implementations**
-  **AI-Assisted Obstacle Detection Ground Truthing for Railway Systems in Senegal**
+  → **Urban heat mapping with Landsat**
+  → **Deforestation in the Congo Basin**
+  → **Impact mapping of coral Bleaching on the Great Barrier Reef and geoengineering implementations**
+  → **AI-Assisted Obstacle Detection Ground Truthing for Railway Systems in Senegal**
