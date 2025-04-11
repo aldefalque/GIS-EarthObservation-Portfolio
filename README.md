@@ -9,5 +9,10 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 - **Wildfire Impact in California (2012–2022)**  
   → Spatial analysis of county-level wildfire damage using ArcGIS Pro  
   → Tools: Dissolve, Intersect, Calculate Geometry, Summary Statistics  
-
-- **Coming soon:** Urban heat mapping with Landsat, remote sensing for agriculture, and more!
+  → [View PDF Map](Wildire Analysis map ALDefalqueHerrberg.pdf)  
+  → 🌐 [Map Package] In the works
+- **Coming soon:**
+  Urban heat mapping with Landsat
+  Remote sensing for agriculture
+  Deforestation in the Congo Basin
+  Impact mapping of coral Bleaching on the Great Barrier Reef and geoengineering implementations
