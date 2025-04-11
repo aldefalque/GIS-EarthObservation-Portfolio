@@ -16,3 +16,4 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   Remote sensing for agriculture
   Deforestation in the Congo Basin
   Impact mapping of coral Bleaching on the Great Barrier Reef and geoengineering implementations
+  AI-Assisted Obstacle Detection Ground Truthing for Railway Systems in Senegal
