@@ -16,8 +16,9 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed.
   → Techniques used: Slope, Aspect, Elevation Filtering, Raster Calculator, Zonal Geometry.  
   → **Result**: A final binary raster map and area calculations for suitable patches.
+  → [View png Map](suitability_Map.png)
   
-- **Coming soon:**
+- **Upcoming projects:**
   → **Urban heat mapping with Landsat**
   → **Deforestation in the Congo Basin**
   → **Impact mapping of coral Bleaching on the Great Barrier Reef and geoengineering implementations**
