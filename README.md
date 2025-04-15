@@ -9,14 +9,14 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 - **Wildfire Impact in California (2012–2022)**  
   → Spatial analysis of county-level wildfire damage using ArcGIS Pro  
   → Tools: Dissolve, Intersect, Calculate Geometry, Summary Statistics  
-  → [View PDF Map](Wildire Analysis map ALDefalqueHerrberg.pdf)  
-  → 🌐 [Map Package] In the works
+  → [View Wildfire Impact Map package](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/Wildire%20Analysis%20map%20ALDefalqueHerrberg.pdf)
 
 - **Marbled Murrelet Suitability Analysis**
   → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed.
   → Techniques used: Slope, Aspect, Elevation Filtering, Raster Calculator, Zonal Geometry.  
   → **Result**: A final binary raster map and area calculations for suitable patches.
-  → [View png Map](suitability_Map.png)
+  → [Open Suitability Map PNG](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/marbled-murrelet-suitability/suitability_map.png)
+
   
 - **Upcoming projects:**
   → **Urban heat mapping with Landsat**
