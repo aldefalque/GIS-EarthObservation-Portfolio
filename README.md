@@ -13,15 +13,21 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   → [View Wildfire Impact Map package](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/Wildire%20Analysis%20map%20ALDefalqueHerrberg.pdf)
 
 - **Marbled Murrelet Suitability Analysis**
-  → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed 
+  
+  → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed
+   
   → Techniques used: Slope, Aspect, Elevation Filtering, Raster Calculator, Zonal Geometry
+  
   → **Result**: A final binary raster map and area calculations for suitable patches
   
   → [View Suitability Map PNG](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/marbled-murrelet-suitability/suitability_map.png)
 
 - **Valmeyer, Illinois Relocation**
+  
   → A spatial analysis project using ArcGIS Pro to document the relocation of Valmeyer, Illinois, from a flood-prone area to higher ground
+  
   → Techniques used: Zonal Statistics, Euclidean Distance, Slope Analysis, Feature Digitizing, Symbology, ArcGIS Online publishing
+  
   → **Result**: A web map displaying updated parcel attributes (elevation, slope, distance) and a digitized road network for emergency planning
   
   → [View Valmyer relocation road-map](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/moving_valmeyer_new_roads.png)
