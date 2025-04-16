@@ -19,7 +19,13 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   
   → [Open Suitability Map PNG](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/marbled-murrelet-suitability/suitability_map.png)
 
-  
+- **Valmeyer, Illinois Relocation**
+→ A spatial analysis project using ArcGIS Pro to document the relocation of Valmeyer, Illinois, from a flood-prone area to higher ground.
+→ Techniques used: Zonal Statistics, Euclidean Distance, Slope Analysis, Feature Digitizing, Symbology, ArcGIS Online publishing.
+→ **Result**: A web map displaying updated parcel attributes (elevation, slope, distance) and a digitized road network for emergency planning.
+
+→ [open Valmyer relocation road-map](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/moving_valmeyer_new_roads.png)
+
 - **Upcoming projects:**
   → **Urban heat mapping with Landsat**
   → **Deforestation in the Congo Basin**
