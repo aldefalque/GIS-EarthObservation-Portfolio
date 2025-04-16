@@ -13,7 +13,6 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   → [View Wildfire Impact Map package](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/Wildire%20Analysis%20map%20ALDefalqueHerrberg.pdf)
 
 - **Marbled Murrelet Suitability Analysis**
-  
   → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed
    
   → Techniques used: Slope, Aspect, Elevation Filtering, Raster Calculator, Zonal Geometry
@@ -33,7 +32,11 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   → [View Valmyer relocation road-map](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/moving_valmeyer_new_roads.png)
 
 - **Upcoming projects:**
+  
   → **Urban heat mapping with Landsat**
+  
   → **Deforestation in the Congo Basin**
+  
   → **Impact mapping of coral Bleaching on the Great Barrier Reef and geoengineering implementations**
+  
   → **AI-Assisted Obstacle Detection Ground Truthing for Railway Systems in Senegal**
