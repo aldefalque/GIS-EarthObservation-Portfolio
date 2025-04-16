@@ -13,6 +13,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   → [View Wildfire Impact Map package](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/Wildire%20Analysis%20map%20ALDefalqueHerrberg.pdf)
 
 - **Marbled Murrelet Suitability Analysis**
+  
   → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed
    
   → Techniques used: Slope, Aspect, Elevation Filtering, Raster Calculator, Zonal Geometry
