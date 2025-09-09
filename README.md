@@ -37,7 +37,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 - Web app comparing **historic redlining** with **current educational indicators** (school lunch eligibility, high school attainment).
 - Tools: ArcGIS Online, Instant Apps (Media Map with Swipe tool).
 - Purpose: Identify neighborhoods that would benefit most from after-school mentoring programs.
-- 🌐 [View Swipe App](https://ucirvine.maps.arcgis.com/apps/instant/basic/index.html?appid=ef12ba7fb70c4ffd9ab2170bbb68f2b7)
+- 🌐 [View Swipe App]([https://ucirvine.maps.arcgis.com/apps/instant/basic/index.html?appid=ef12ba7fb70c4ffd9ab2170bbb68f2b7](https://ucirvine.maps.arcgis.com/apps/instant/basic/index.html?appid=ef12ba7fb70c4ffd9ab2170bbb68f2b7))
 
 
 - **Upcoming projects:**
