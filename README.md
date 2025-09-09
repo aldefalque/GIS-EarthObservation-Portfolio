@@ -32,7 +32,16 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   
   → [View Valmyer relocation road-map](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/moving_valmeyer_new_roads.png)
 
+  ## 🚦 Afterschool Program Opportunities (Detroit, MI)
+
+- Web app comparing **historic redlining** with **current educational indicators** (school lunch eligibility, high school attainment).
+- Tools: ArcGIS Online, Instant Apps (Media Map with Swipe tool).
+- Purpose: Identify neighborhoods that would benefit most from after-school mentoring programs.
+- 🌐 [View Swipe App](https://ucirvine.maps.arcgis.com/apps/instant/basic/index.html?appid=ef12ba7fb70c4ffd9ab2170bbb68f2b7)
+
+
 - **Upcoming projects:**
+  → **Forests and fire regimes in Lamington National Park in Queensland, Australia**
   
   → **Urban heat mapping with Landsat**
   
