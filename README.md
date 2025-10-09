@@ -6,13 +6,13 @@
 Welcome! This is where I showcase my geospatial projects, data visualizations, and environmental observations through GIS. Projects focus on climate resilience, disaster recovery, and satellite-based spatial analysis.
 
 ## Projects
- ### Wildfire Impact in California (2012–2022)**  
+ ### Wildfire Impact in California (2012–2022)
   → Spatial analysis of county-level wildfire damage using ArcGIS Pro  
   → Tools: Dissolve, Intersect, Calculate Geometry, Summary Statistics
   
   → [View Wildfire Impact Map package](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/Wildire%20Analysis%20map%20ALDefalqueHerrberg.pdf)
 
- ### Marbled Murrelet Suitability Analysis**
+ ### Marbled Murrelet Suitability Analysis
   
   → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed
    
@@ -22,7 +22,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   
   → [View Suitability Map PNG](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/marbled-murrelet-suitability/suitability_map.png)
 
-### Valmeyer, Illinois Relocation**
+### Valmeyer, Illinois Relocation
   
   → A spatial analysis project using ArcGIS Pro to document the relocation of Valmeyer, Illinois, from a flood-prone area to higher ground
   
@@ -51,10 +51,8 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 → Tools: ArcGIS Online, Instant Apps, R Studio
 
 → Package References:
-
-R Core Team. (2025). R: A language and environment for statistical computing (Version 4.x) [Computer software]. R Foundation for Statistical Computing. https://www.R-project.org/
-
-Dinno, A. (2024). dunn.test: Dunn’s test of multiple comparisons using rank sums (R package version 1.3.6) [Computer software]. CRAN. https://doi.org/10.32614/CRAN.package.dunn.test
+   **R Core Team. (2025). R: A language and environment for statistical computing (Version 4.x) [Computer software]. R Foundation for Statistical Computing. https://www.R-   project.org/
+   Dinno, A. (2024). dunn.test: Dunn’s test of multiple comparisons using rank sums (R package version 1.3.6) [Computer software]. CRAN. https://doi.org/10.32614/CRAN.package.dunn.test**
 
 
 
