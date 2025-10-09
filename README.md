@@ -47,8 +47,11 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 → 🌐 [View StoryMap](https://arcg.is/10n4Gn2)
 
 → Tools: ArcGIS Online, Instant Apps, R Studio
+
 → Package References:
+
 R Core Team. (2025). R: A language and environment for statistical computing (Version 4.x) [Computer software]. R Foundation for Statistical Computing. https://www.R-project.org/
+
 Dinno, A. (2024). dunn.test: Dunn’s test of multiple comparisons using rank sums (R package version 1.3.6) [Computer software]. CRAN. https://doi.org/10.32614/CRAN.package.dunn.test
 
 
