@@ -43,7 +43,9 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
  ### 🌿 Ecosystem Complexity and Blue Carbon Storage (Quandamooka, QLD)
  
 → Visual representation of blue-carbon storage by vegetation type and depth.
+
 → Statistical analyses performed using Kruskall-Wallis and Dunn's Post-Hoc tests
+
 → 🌐 [View StoryMap](https://arcg.is/10n4Gn2)
 
 → Tools: ArcGIS Online, Instant Apps, R Studio
