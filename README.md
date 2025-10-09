@@ -6,13 +6,13 @@
 Welcome! This is where I showcase my geospatial projects, data visualizations, and environmental observations through GIS. Projects focus on climate resilience, disaster recovery, and satellite-based spatial analysis.
 
 ## Projects
- **Wildfire Impact in California (2012–2022)**  
+ ### Wildfire Impact in California (2012–2022)**  
   → Spatial analysis of county-level wildfire damage using ArcGIS Pro  
   → Tools: Dissolve, Intersect, Calculate Geometry, Summary Statistics
   
   → [View Wildfire Impact Map package](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/Wildire%20Analysis%20map%20ALDefalqueHerrberg.pdf)
 
- **Marbled Murrelet Suitability Analysis**
+ ### Marbled Murrelet Suitability Analysis**
   
   → A suitability analysis using ArcGIS Pro and raster data to identify potential nesting sites for the marbled murrelet in the Navarro River watershed
    
@@ -22,7 +22,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   
   → [View Suitability Map PNG](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/marbled-murrelet-suitability/suitability_map.png)
 
-- **Valmeyer, Illinois Relocation**
+### Valmeyer, Illinois Relocation**
   
   → A spatial analysis project using ArcGIS Pro to document the relocation of Valmeyer, Illinois, from a flood-prone area to higher ground
   
@@ -32,7 +32,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
   
   → [View Valmyer relocation road-map](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/moving_valmeyer_new_roads.png)
 
-  ## 🚦 Afterschool Program Opportunities (Detroit, MI)
+ ### 🚦 Afterschool Program Opportunities (Detroit, MI)
 
 → Web app comparing **historic redlining** with **current educational indicators** (school lunch eligibility, high school attainment).
 → Tools: ArcGIS Online, Instant Apps (Media Map with Swipe tool).
