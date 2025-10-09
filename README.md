@@ -40,6 +40,12 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 - 🌐 [View Swipe App](https://ucirvine.maps.arcgis.com/apps/instant/basic/index.html?appid=ef12ba7fb70c4ffd9ab2170bbb68f2b7)
 
 
+  ## Ecosystem Complexity and Blue Carbon Storage (Quandamooka, QLD)##
+  → Visual representation
+
+  SRC="STORYMAP_PUBLIC_URL"
+
+
 - **Upcoming projects:**
   
   → **Forests and fire regimes in Lamington National Park in Queensland, Australia**
