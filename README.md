@@ -7,7 +7,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 
 ### Coastal erosion in Scotland: The effectiveness of flood risk management in mitigating the loss of natural coastal habitats
 
-→ [Read Research Paper](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/ResearchPaper_Scotland_Coastal_Erosion.docx)
+→→ [View Research Paper](https://github.com/aldefalque/GIS-EarthObservation-Portfolio/blob/main/Coastal_Erosion_Scotland.docx)
 
  ### 🌿 Ecosystem Complexity and Blue Carbon Storage (Quandamooka, QLD)
  
