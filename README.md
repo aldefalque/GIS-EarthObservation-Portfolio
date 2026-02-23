@@ -7,7 +7,7 @@ Welcome! This is where I showcase my geospatial projects, data visualizations, a
 
 ### Coastal erosion in Scotland: The effectiveness of flood risk management in mitigating the loss of natural coastal habitats
 
-→ [View Research Paper] (ResearchPaper_Scotland_Coastal_Erosion.docx)
+→ [View Research Paper](ResearchPaper_Scotland_Coastal_Erosion)
 
  ### 🌿 Ecosystem Complexity and Blue Carbon Storage (Quandamooka, QLD)
  
